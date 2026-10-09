@@ -46,7 +46,7 @@ Cleaning notes:
 | Payment method | Electronic check customers churn at **45.3%**; the other three methods are between 15.2% and 19.1% |
 | High-risk segment | Month-to-month, tenure of 12 months or less, no tech support: **1,363 customers, 61.0% churn** |
 
-All ten queries are in [`sql/churnsense_queries.sql`](sql/churnsense_queries.sql).
+All ten queries are in [`sql/churnsense_queries.sql`](SQL/churnsense_queries.sql).
 
 ---
 
