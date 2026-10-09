@@ -16,7 +16,7 @@ An end-to-end data analyst project that answers three business questions for a t
 
 ![Dashboard filtered to month-to-month customers](dashboard/dashboard_month_to_month.png)
 
-The Power BI file is in [`dashboard/ChurnSense_Dashboard.pbix`](dashboard/ChurnSense_Dashboard.pbix). It has KPI cards, churn charts, slicers (Contract, Risk level, Unseen customers only) and a call list titled **"Who should we call first?"**, sorted by churn risk.
+The Power BI file is in [`dashboard/ChurnSense_Dashboard.pbix`](dashboard/ChurnSense_dashboard.pbix). It has KPI cards, churn charts, slicers (Contract, Risk level, Unseen customers only) and a call list titled **"Who should we call first?"**, sorted by churn risk.
 
 ---
 
